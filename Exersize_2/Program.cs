@@ -1,4 +1,4 @@
-﻿// Сравниваем 3 числа
+﻿// Сравниваем 3 числа. Решал без массивов и функций.
 Console.WriteLine("Сравним 3 числа и найдем большее. Введите первое число");
 string numberA = Console.ReadLine();
 int number1 = int.Parse(numberA);
